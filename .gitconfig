@@ -4,3 +4,7 @@
 [github]
 	user = bonz0
 	token = e802ff0b25675b48ba2c6f17ffa372b2
+[color]
+	diff = auto
+	status = auto
+	branch = auto
